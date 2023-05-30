@@ -19,6 +19,9 @@
   "peerDependencies": {
     "react": "^18.2.0"
   },
+  "dependencies": {
+    "utils": "workspace:*"
+  },
   "devDependencies": {
     "@types/react": "^18.2.5",
     "eslint": "^7.32.0",
