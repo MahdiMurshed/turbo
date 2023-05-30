@@ -20,6 +20,9 @@
     "react": "^18.2.0"
   },
   "dependencies": {
+    "class-variance-authority": "^0.6.0",
+    "lucide-react": "^0.224.0",
+    "next-themes": "^0.2.1",
     "utils": "workspace:*"
   },
   "devDependencies": {
